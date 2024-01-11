@@ -1,3 +1,3 @@
-# Change detection Of Land cover using Transformer
+# Continuous change detection of Land cover using Transformer
 
 Coming soon！
